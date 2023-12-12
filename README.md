@@ -1,4 +1,4 @@
-**# sqlalchemy-challenge******
+****** sqlalchemy-challenge**********
 
 The 'SurfsUp' directory encompasses essential components for climate analysis, including the 'climate.ipynb' Jupyter Notebook, the 'app.py' Python script, and a 'Resources' folder housing the 'hawaii.sqlite' database. 
 Additionally, within the 'Resources' folder, you'll find 'hawaii_measurements.csv' and 'hawaii_stations.csv,' serving as supplementary datasets for the climate analysis project.
