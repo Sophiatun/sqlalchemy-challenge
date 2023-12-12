@@ -7,7 +7,7 @@ This project leverages Python, SQLAlchemy, Pandas, and Matplotlib to perform com
 The data analysis is conducted through SQLAlchemy's Object-Relational Mapping (ORM) queries, facilitating seamless interaction with the database. 
 Additionally, the project incorporates Flask to design an API, allowing users to query the climate data programmatically.
 
-#**Part 1 **
+#**Part 1**
 
 **Analyzing and Exploring the Climate Data**
 1) Precipitation Analysis
